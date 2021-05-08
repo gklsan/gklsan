@@ -2,17 +2,13 @@
 <p align="justifiy">A passionate full stack web applicaiton developer from India with the 7+ years of professional experience who can provide variance of solutions to clients which incorporates applications and website development. My specialization includes debugging,software design, refactoring legacy code, automating builds and deployments.
 I am one among the few experienced developer in an industry leading "Ruby on Rails" which includes requirement gathering,developing story,prioritizing,implementation,writing test case with framework like Rspec,cucumber,selenium, deployment and gathering feedback from the client. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gklsan&label=Profile%20views&color=0e75b6&style=flat" alt="gklsan" /> </p>
+[comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=gklsan&label=Profile%20views&color=0e75b6&style=flat" alt="gklsan" /> </p>)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gklsan" alt="gklsan" /></a> </p>
+[comment]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gklsan" alt="gklsan" /></a> </p>)
+💬 Ask me about **Ruby, Ruby on Rails, React, JavaScript, Jquery, HTML5, CSS3**
 
+### Blogs post
 - 📝 I regularly write articles on [https://gokul-gklsan.medium.com/](https://gokul-gklsan.medium.com/)
-
-- 💬 Ask me about **Ruby, Ruby on Rails, React, JavaScript, Jquery, HTML5, CSS3**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
