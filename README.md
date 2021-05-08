@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
-<h6 align="justifiy">A passionate full stack web applicaiton developer from India with the 7+ years of professional experience who can provide variance of solutions to clients which incorporates applications and website development. My specialization includes debugging,software design, refactoring legacy code, automating builds and deployments.
-I am one among the few experienced developer in an industry leading "Ruby on Rails" which includes requirement gathering,developing story,prioritizing,implementation,writing test case with framework like Rspec,cucumber,selenium, deployment and gathering feedback from the client. </h6>
+<p align="justifiy">A passionate full stack web applicaiton developer from India with the 7+ years of professional experience who can provide variance of solutions to clients which incorporates applications and website development. My specialization includes debugging,software design, refactoring legacy code, automating builds and deployments.
+I am one among the few experienced developer in an industry leading "Ruby on Rails" which includes requirement gathering,developing story,prioritizing,implementation,writing test case with framework like Rspec,cucumber,selenium, deployment and gathering feedback from the client. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gklsan&label=Profile%20views&color=0e75b6&style=flat" alt="gklsan" /> </p>
 
