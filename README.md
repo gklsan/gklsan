@@ -8,14 +8,15 @@ I am one among the few experienced developer in an industry leading "Ruby on Rai
 💬 Ask me about **Ruby, Ruby on Rails, React, JavaScript, Jquery, HTML5, CSS3**
 
 ### Blogs post
-- 📝 I regularly write articles on [https://gokul-gklsan.medium.com/](https://gokul-gklsan.medium.com/)
+- 📝 I regularly write articles on [https://gklsan.medium.com/](https://gklsan.medium.com/)
+- [https://ko-fi.com/gklsan](https://ko-fi.com/gklsan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gklsan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gklsan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gklsan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gklsan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4823919" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4823919" height="30" width="40" /></a>
-<a href="https://medium.com/@gokul-gklsan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gokul-gklsan" height="30" width="40" /></a>
+<a href="https://gklsan.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gklsan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
