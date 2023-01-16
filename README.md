@@ -9,7 +9,7 @@ I am one among the few experienced developer in an industry leading "Ruby on Rai
 
 ### Blogs post
 - 📝 I regularly write articles on [https://gklsan.medium.com/](https://gklsan.medium.com/)
-- [https://ko-fi.com/gklsan](https://ko-fi.com/gklsan)
+- [Offer a Coffee](https://ko-fi.com/gklsan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
