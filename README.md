@@ -67,5 +67,3 @@ I regularly share my insights and experiences on [Medium](https://gklsan.medium.
 ---
 
 Feel free to explore my repository and get in touch for any collaboration or inquiries!
-
----
