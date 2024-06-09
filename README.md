@@ -17,6 +17,7 @@ A passionate full-stack web application developer from India with 10+ years of p
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools & Technologies
 ![Rspec](https://img.shields.io/badge/Rspec-7B5FA2?style=for-the-badge&logo=rspec&logoColor=white)
