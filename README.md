@@ -65,12 +65,6 @@ I regularly share my insights and experiences on [Medium](https://gklsan.medium.
 
 ---
 
-## 📊 GitHub Stats
-
-![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gklsan&show_icons=true&theme=radical)
-
----
-
 Feel free to explore my repository and get in touch for any collaboration or inquiries!
 
 ---
