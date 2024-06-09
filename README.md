@@ -36,6 +36,12 @@ A passionate full-stack web application developer from India with 10+ years of p
 
 ---
 
+## Open source contribution
+
+[![Open Source Badge](https://img.shields.io/badge/Simple_HTTP_Service-4CAF50?style=for-the-badge)](https://rubygems.org/gems/simple_http_service)  [![Gem Version](https://badge.fury.io/rb/simple_http_service.svg)](https://badge.fury.io/rb/simple_http_service)
+
+---
+
 ## 🚀 What I Do
 
 - **Web Development**: Building responsive and user-friendly web applications.
