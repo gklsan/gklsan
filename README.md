@@ -1,8 +1,6 @@
 ## 👋 Hi there, I'm Gokul! 🌟
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/gklsan/gklsan/assets/10346118/fa2a3e63-5dc6-4966-a990-9f9ccd7d81c0)
-
-A passionate full-stack web application developer from India with 10+ years of professional experience who can provide various solutions to clients incorporating applications and website development. My specialization includes debugging, software design, refactoring legacy code, and automating builds and deployments. I am one of the few experienced developers in an industry-leading "Ruby on Rails," which includes requirement gathering, developing story, prioritizing, implementation, writing test cases with frameworks like Rspec, cucumber, and selenium, deployment, and gathering feedback from the client.
+A passionate full-stack web application developer from India with around a decade of professional experience who can provide various solutions to clients incorporating applications and website development. My specialization includes debugging, software design, refactoring legacy code, and automating builds and deployments. I am one of the few experienced developers in an industry-leading "Ruby on Rails," which includes requirement gathering, developing story, prioritizing, implementation, writing test cases with frameworks like Rspec, cucumber, and selenium, deployment, and gathering feedback from the client.
 
 ---
 
