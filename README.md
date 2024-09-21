@@ -55,7 +55,7 @@ A passionate full-stack web application developer from India with around a decad
 
 ## 📚 Blog & Articles
 
-I regularly share my insights and experiences on [Medium](https://gklsan.medium.com/). Check out my articles and feel free to offer a coffee if you find them helpful!
+I regularly share my insights and experiences on [Medium](https://gklsan.medium.com/) and [Dev.to](https://dev.to/gklsan). Check out my articles and feel free to offer a coffee if you find them helpful!
 
 ---
 
