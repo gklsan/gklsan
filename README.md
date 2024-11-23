@@ -8,7 +8,7 @@ A passionate full-stack web application developer from India with around a decad
 
 [![Open Source Badge](https://img.shields.io/badge/Simple_HTTP_Service-CC342D?style=for-the-badge)](https://rubygems.org/gems/simple_http_service)  [![Gem Version](https://badge.fury.io/rb/simple_http_service.svg)](https://badge.fury.io/rb/simple_http_service)
 
-[![Open Source Badge](https://img.shields.io/badge/Remote_Translation_Loader-F7DF1E?style=for-the-badge)](https://rubygems.org/gems/simple_http_service) 
+[![Open Source Badge](https://img.shields.io/badge/Remote_Translation_Loader-F7DF1E?style=for-the-badge)](https://rubygems.org/gems/remote_translation_loader) 
 [![Gem Version](https://badge.fury.io/rb/remote_translation_loader.svg)](https://badge.fury.io/rb/remote_translation_loader)
 
 ---
