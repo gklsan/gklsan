@@ -11,6 +11,9 @@ A passionate full-stack web application developer from India with around a decad
 [![Open Source Badge](https://img.shields.io/badge/Remote_Translation_Loader-F7DF1E?style=for-the-badge)](https://rubygems.org/gems/remote_translation_loader) 
 [![Gem Version](https://badge.fury.io/rb/remote_translation_loader.svg)](https://badge.fury.io/rb/remote_translation_loader)  [![Gem Downloads](https://img.shields.io/gem/dt/remote_translation_loader.svg)](https://rubygems.org/gems/remote_translation_loader)
 
+[![Open Source Badge](https://img.shields.io/badge/Solid_Callback-43B02A?style=for-the-badge)](https://rubygems.org/gems/solid_callback) 
+[![Gem Version](https://badge.fury.io/rb/solid_callback.svg)](https://badge.fury.io/rb/solid_callback)  [![Ruby](https://github.com/gklsan/solid_callback/actions/workflows/ruby.yml/badge.svg)](https://github.com/gklsan/solid_callback/actions/workflows/ruby.yml)  [![Gem Downloads](https://img.shields.io/gem/dt/solid_callback.svg)](https://rubygems.org/gems/solid_callback)
+
 ---
 
 ## 🛠️ Skills & Expertise
